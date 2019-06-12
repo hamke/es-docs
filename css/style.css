@@ -273,10 +273,10 @@ header .title {
   float: left;
   font-weight: bold;
   color: #000;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   /* margin-top: 18px; */
   font-size: 18px;
-  text-transform: uppercase
+  /* text-transform: uppercase */
 }
 
 header .nav {
