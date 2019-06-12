@@ -204,7 +204,7 @@ ul {
 }
 a,
 a:active {
-  color: #0366d6;
+  color: #953581;
   text-decoration: none;
 }
 a.nav-list-link.active,
@@ -371,7 +371,7 @@ header .nav-list-item a {
   font-size: 18px;
 }
 .post-content a {
-  color: #0366d6;
+  color: #953581;
   word-break: break-all;
 }
 .post-content a:hover {
