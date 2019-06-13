@@ -234,7 +234,13 @@ code {
   white-space: inherit
 }
 
-iframe, video {
+iframe {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block
+}
+
+video {
   max-width: 100%;
   margin: 1rem auto;
   display: block
