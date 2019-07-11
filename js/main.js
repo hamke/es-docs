@@ -33,8 +33,10 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(window).scroll(function () {
        if ($(this).scrollTop() > 50) {
+         $('#chat-button').fadeIn();
          $('#back-to-top').fadeIn();
        } else {
+         $('#chat-button').fadeOut();
          $('#back-to-top').fadeOut();
        }
      });
