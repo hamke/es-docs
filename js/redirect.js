@@ -1,1 +1,1 @@
-window.location = 'https://www.ttmkt.com/kakao/';
+window.location = 'https://www.esenderchina.com/kakao/';
